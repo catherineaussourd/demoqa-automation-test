@@ -12,7 +12,6 @@ namespace PitangAutomation.Tests
     internal class BooksTest : BaseTest
     {
         private static Logger logger = LogManager.GetCurrentClassLogger();
-
         private InitialPage initialPage;
         private LoginPage loginPage;
         private ProfilePage profilePage;
