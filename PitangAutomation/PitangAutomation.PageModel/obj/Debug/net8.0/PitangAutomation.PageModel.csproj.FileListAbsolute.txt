@@ -1,0 +1,15 @@
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\PitangAutomation.PageModel.deps.json
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\PitangAutomation.PageModel.dll
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\PitangAutomation.PageModel.pdb
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.PageModel.csproj.AssemblyReference.cache
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.PageModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.PageModel.AssemblyInfoInputs.cache
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.PageModel.AssemblyInfo.cs
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.PageModel.csproj.CoreCompileInputs.cache
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.PageModel.dll
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\refint\PitangAutomation.PageModel.dll
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.PageModel.pdb
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\ref\PitangAutomation.PageModel.dll

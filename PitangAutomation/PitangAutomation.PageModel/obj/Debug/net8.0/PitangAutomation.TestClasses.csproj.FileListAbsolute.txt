@@ -1,0 +1,30 @@
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\PitangAutomation.TestClasses.deps.json
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\PitangAutomation.TestClasses.dll
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\PitangAutomation.TestClasses.pdb
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.csproj.AssemblyReference.cache
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.AssemblyInfoInputs.cache
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.AssemblyInfo.cs
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.csproj.CoreCompileInputs.cache
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.dll
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\refint\PitangAutomation.TestClasses.dll
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.pdb
+C:\Users\Catherine\source\repos\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\ref\PitangAutomation.TestClasses.dll
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\PitangAutomation.TestClasses.deps.json
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\PitangAutomation.TestClasses.dll
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\bin\Debug\net8.0\PitangAutomation.TestClasses.pdb
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.csproj.AssemblyReference.cache
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.AssemblyInfoInputs.cache
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.AssemblyInfo.cs
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.csproj.CoreCompileInputs.cache
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.dll
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\refint\PitangAutomation.TestClasses.dll
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\PitangAutomation.TestClasses.pdb
+C:\Users\Catherine\Desktop\Projeto Pitang\PitangAutomation\PitangAutomation.PageModel\obj\Debug\net8.0\ref\PitangAutomation.TestClasses.dll

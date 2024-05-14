@@ -1,0 +1,6 @@
+@PitangAutomation.API_HostAddress = http://localhost:5172
+
+GET {{PitangAutomation.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C17261-0A04-4090-A6D6-7CA8697E7F9C}|PitangAutomation\\PitangAutomation.Tests.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation\\registrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C17261-0A04-4090-A6D6-7CA8697E7F9C}|PitangAutomation\\PitangAutomation.Tests.csproj|solutionrelative:pitangautomation\\registrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation.pagemodel\\pom\\bookspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|solutionrelative:pitangautomation.pagemodel\\pom\\bookspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C17261-0A04-4090-A6D6-7CA8697E7F9C}|PitangAutomation\\PitangAutomation.Tests.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C17261-0A04-4090-A6D6-7CA8697E7F9C}|PitangAutomation\\PitangAutomation.Tests.csproj|solutionrelative:pitangautomation\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C17261-0A04-4090-A6D6-7CA8697E7F9C}|PitangAutomation\\PitangAutomation.Tests.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation\\bookstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C17261-0A04-4090-A6D6-7CA8697E7F9C}|PitangAutomation\\PitangAutomation.Tests.csproj|solutionrelative:pitangautomation\\bookstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C17261-0A04-4090-A6D6-7CA8697E7F9C}|PitangAutomation\\PitangAutomation.Tests.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C17261-0A04-4090-A6D6-7CA8697E7F9C}|PitangAutomation\\PitangAutomation.Tests.csproj|solutionrelative:pitangautomation\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation.pagemodel\\pom\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|solutionrelative:pitangautomation.pagemodel\\pom\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation.pagemodel\\pom\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|solutionrelative:pitangautomation.pagemodel\\pom\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation.pagemodel\\reports\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|solutionrelative:pitangautomation.pagemodel\\reports\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation.pagemodel\\pom\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|solutionrelative:pitangautomation.pagemodel\\pom\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation.pagemodel\\pom\\registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|solutionrelative:pitangautomation.pagemodel\\pom\\registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|c:\\users\\catherine\\desktop\\projeto pitang\\pitangautomation\\pitangautomation.pagemodel\\pom\\initialpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE87D68-1E22-45A1-9FDB-3452141274F0}|PitangAutomation.PageModel\\PitangAutomation.TestClasses.csproj|solutionrelative:pitangautomation.pagemodel\\pom\\initialpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\BasePage.cs",
+              "RelativeDocumentMoniker": "PitangAutomation.PageModel\\POM\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\BasePage.cs",
+              "RelativeToolTip": "PitangAutomation.PageModel\\POM\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:34:54.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksTest.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation\\BooksTest.cs",
+              "RelativeDocumentMoniker": "PitangAutomation\\BooksTest.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation\\BooksTest.cs",
+              "RelativeToolTip": "PitangAutomation\\BooksTest.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA6wCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "PitangAutomation",
+              "WhenOpened": "2024-05-13T15:39:32.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation\\RegistrationTest.cs",
+              "RelativeDocumentMoniker": "PitangAutomation\\RegistrationTest.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation\\RegistrationTest.cs",
+              "RelativeToolTip": "PitangAutomation\\RegistrationTest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:39:18.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksPage.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\BooksPage.cs",
+              "RelativeDocumentMoniker": "PitangAutomation.PageModel\\POM\\BooksPage.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\BooksPage.cs",
+              "RelativeToolTip": "PitangAutomation.PageModel\\POM\\BooksPage.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:38:05.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation\\BaseTest.cs",
+              "RelativeDocumentMoniker": "PitangAutomation\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation\\BaseTest.cs",
+              "RelativeToolTip": "PitangAutomation\\BaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:15:43.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation\\LoginTest.cs",
+              "RelativeDocumentMoniker": "PitangAutomation\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation\\LoginTest.cs",
+              "RelativeToolTip": "PitangAutomation\\LoginTest.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:22:25.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\LoginPage.cs",
+              "RelativeDocumentMoniker": "PitangAutomation.PageModel\\POM\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\LoginPage.cs",
+              "RelativeToolTip": "PitangAutomation.PageModel\\POM\\LoginPage.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:45:30.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationPage.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\RegistrationPage.cs",
+              "RelativeDocumentMoniker": "PitangAutomation.PageModel\\POM\\RegistrationPage.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\RegistrationPage.cs",
+              "RelativeToolTip": "PitangAutomation.PageModel\\POM\\RegistrationPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:08:43.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InitialPage.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\InitialPage.cs",
+              "RelativeDocumentMoniker": "PitangAutomation.PageModel\\POM\\InitialPage.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\InitialPage.cs",
+              "RelativeToolTip": "PitangAutomation.PageModel\\POM\\InitialPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:41:26.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfilePage.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\ProfilePage.cs",
+              "RelativeDocumentMoniker": "PitangAutomation.PageModel\\POM\\ProfilePage.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\POM\\ProfilePage.cs",
+              "RelativeToolTip": "PitangAutomation.PageModel\\POM\\ProfilePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:00:14.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\Reports\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "PitangAutomation.PageModel\\Reports\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\Catherine\\Desktop\\Projeto Pitang\\PitangAutomation\\PitangAutomation.PageModel\\Reports\\ReportGenerator.cs",
+              "RelativeToolTip": "PitangAutomation.PageModel\\Reports\\ReportGenerator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:53:43.293Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
