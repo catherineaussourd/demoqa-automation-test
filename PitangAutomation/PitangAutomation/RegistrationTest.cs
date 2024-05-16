@@ -20,7 +20,7 @@ namespace PitangAutomation
         public void GlobalSetup()
         {
             ReportGenerator.SetupExtentReport("RegistrationTestReport", "Registration Test Report");
-        }
+        } 
 
         [SetUp]
         public void SetUp()

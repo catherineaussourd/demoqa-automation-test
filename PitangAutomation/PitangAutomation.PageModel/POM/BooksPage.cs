@@ -34,8 +34,7 @@ namespace PitangAutomation.TestClasses.POM
             Actions actions = new Actions(driver);
             actions.MoveToElement(SearchBoxField).Click().Perform();
         }
-
-        
+ 
         public string ListBooksSearched()
         {
             _wait.Until(ExpectedConditions.ElementIsVisible(By.ClassName("rt-tbody")));
